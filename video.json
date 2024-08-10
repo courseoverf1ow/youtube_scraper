@@ -1,0 +1,466 @@
+{
+  "playlist": [
+    {
+      "title": "Data Structures",
+      "topic": [
+        "Intro to dsa",
+        "c++ stl",
+        "time complexity",
+        "arrays in dsa",
+        "stack in dsa",
+        "string in dsa",
+        "queue in dsa",
+        "binary search in dsa",
+        "linked list in dsa",
+        "sorting in dsa",
+        "tree in dsa",
+        "graph in dsa",
+        "dynamic programming in dsa",
+        "tries in dsa",
+        "segment tree in dsa",
+        "dijktra algo in cpp"
+      ]
+    },
+    {
+      "title": "Algorithms",
+      "topic": [
+        "Intro to algo",
+        "time complexity",
+        "space complexity",
+        "recursion in algo",
+        "backtracking in algo",
+        "greedy algo",
+        "dynamic programming in algo",
+        "divide and conquer in algo",
+        "bit manipulation in algo",
+        "graph algo",
+        "tree algo",
+        "sorting algo",
+        "searching algo",
+        "string algo",
+        "math algo",
+        "dp in cpp"
+      ]
+    },
+    {
+      "title": "Machine Learning",
+      "topic": [
+        "Intro to ml",
+        "linear regression",
+        "logistic regression",
+        "knn in ml",
+        "k-means in ml",
+        "svm in ml",
+        "naive bayes in ml",
+        "decision tree in ml",
+        "random forest in ml",
+        "ensemble learning in ml",
+        "boosting in ml",
+        "bagging in ml",
+        "pca in ml",
+        "k-fold cross validation in ml",
+        "grid search in ml",
+        "hyperparameter tuning in ml"
+      ]
+    },
+    {
+      "title": "Web Development",
+      "topic": [
+        "Intro to web dev",
+        "html",
+        "css",
+        "javascript",
+        "react in web dev",
+        "nodejs in web dev",
+        "express in web dev",
+        "mongodb in web dev",
+        "sql in web dev",
+        "rest api in web dev",
+        "graphql in web dev",
+        "redux in web dev",
+        "jwt in web dev",
+        "cookies in web dev",
+        "sessions in web dev",
+        "authentication in web dev"
+      ]
+    },
+    {
+      "title": "Operating System",
+      "topic": [
+        "Intro to os",
+        "process management",
+        "memory management",
+        "file system in os",
+        "deadlock in os",
+        "cpu scheduling in os",
+        "page replacement in os",
+        "virtual memory in os",
+        "semaphores in os",
+        "mutex in os",
+        "deadlock prevention in os",
+        "deadlock avoidance in os",
+        "deadlock detection in os",
+        "deadlock recovery in os",
+        "deadlock prevention in os",
+        "deadlock avoidance in os"
+      ]
+    },
+    {
+      "title": "Computer Networks",
+      "topic": [
+        "Intro to cn",
+        "osi model",
+        "tcp/ip model",
+        "ip address in cn",
+        "subnetting in cn",
+        "routing in cn",
+        "switching in cn",
+        "firewall in cn",
+        "nat in cn",
+        "dhcp in cn",
+        "dns in cn",
+        "http in cn",
+        "https in cn",
+        "ftp in cn",
+        "smtp in cn",
+        "pop3 in cn"
+      ]
+    },
+    {
+      "title": "Database Management System",
+      "topic": [
+        "Intro to dbms",
+        "sql",
+        "normalization",
+        "acid properties in dbms",
+        "transaction in dbms",
+        "concurrency control in dbms",
+        "deadlock in dbms",
+        "indexing in dbms",
+        "b tree in dbms",
+        "b+ tree in dbms",
+        "hashing in dbms",
+        "file organization in dbms",
+        "query optimization in dbms",
+        "join in dbms",
+        "trigger in dbms",
+        "view in dbms"
+      ]
+    },
+    {
+      "title": "Software Engineering",
+      "topic": [
+        "Intro to se",
+        "sdlc",
+        "waterfall model",
+        "agile model in se",
+        "scrum in se",
+        "kanban in se",
+        "v model in se",
+        "spiral model in se",
+        "prototype model in se",
+        "incremental model in se",
+        "rad model in se",
+        "clean code in se",
+        "refactoring in se",
+        "code review in se",
+        "testing in se",
+        "unit testing in se"
+      ]
+    },
+    {
+      "title": "Artificial Intelligence",
+      "topic": [
+        "Intro to ai",
+        "searching",
+        "reasoning",
+        "knowledge representation in ai",
+        "machine learning in ai",
+        "deep learning in ai",
+        "neural network in ai",
+        "fuzzy logic in ai",
+        "genetic algorithm in ai",
+        "expert system in ai",
+        "natural language processing in ai",
+        "robotics in ai",
+        "computer vision in ai",
+        "speech recognition in ai",
+        "chatbot in ai",
+        "reinforcement learning in ai"
+      ]
+    },
+    {
+      "title": "Compiler Design",
+      "topic": [
+        "Intro to cd",
+        "lexical analysis",
+        "syntax analysis",
+        "semantic analysis in cd",
+        "code optimization in cd",
+        "code generation in cd",
+        "parsing in cd",
+        "top down parsing in cd",
+        "bottom up parsing in cd",
+        "shift reduce parsing in cd",
+        "lr parsing in cd",
+        "ll parsing in cd",
+        "slr parsing in cd",
+        "lalr parsing in cd",
+        "error recovery in cd",
+        "symbol table in cd"
+      ]
+    },
+    {
+      "title": "Computer Graphics",
+      "topic": [
+        "Intro to cg",
+        "line drawing",
+        "circle drawing",
+        "ellipse drawing in cg",
+        "polygon filling in cg",
+        "cl clipping in cg",
+        "cohen sutherland in cg",
+        "liang barsky in cg",
+        "sutherland hodgeman in cg",
+        "translation in cg",
+        "scaling in cg",
+        "rotation in cg",
+        "reflection in cg",
+        "shearing in cg",
+        "composite transformation in cg",
+        "2d transformation in cg"
+      ]
+    },
+    {
+      "title": "Cryptography",
+      "topic": [
+        "Intro to crypto",
+        "encryption",
+        "decryption",
+        "symmetric key in crypto",
+        "asymmetric key in crypto",
+        "rsa in crypto",
+        "des in crypto",
+        "aes in crypto",
+        "hash function in crypto",
+        "digital signature in crypto",
+        "public key in crypto",
+        "private key in crypto",
+        "diffie hellman in crypto",
+        "elliptic curve in crypto",
+        "block cipher in crypto",
+        "stream cipher in crypto"
+      ]
+    },
+    {
+      "title": "Cloud Computing",
+      "topic": [
+        "Intro to cloud",
+        "saas",
+        "paas",
+        "iaas in cloud",
+        "public cloud in cloud",
+        "private cloud in cloud",
+        "hybrid cloud in cloud",
+        "community cloud in cloud",
+        "aws in cloud",
+        "azure in cloud",
+        "google cloud in cloud",
+        "openstack in cloud",
+        "vmware in cloud",
+        "docker in cloud",
+        "kubernetes in cloud",
+        "serverless in cloud"
+      ]
+    },
+    {
+      "title": "Data Mining",
+      "topic": [
+        "Intro to dm",
+        "data preprocessing",
+        "data cleaning",
+        "data transformation in dm",
+        "data reduction in dm",
+        "data discretization in dm",
+        "data integration in dm",
+        "data mining in dm",
+        "association rule in dm",
+        "classification in dm",
+        "clustering in dm",
+        "outlier detection in dm",
+        "anomaly detection in dm",
+        "pattern discovery in dm",
+        "frequent pattern in dm",
+        "sequential pattern in dm"
+      ]
+    },
+    {
+      "title": "Computer Organization",
+      "topic": [
+        "Intro to co",
+        "cpu",
+        "memory",
+        "bus in co",
+        "register in co",
+        "cache in co",
+        "ram in co",
+        "rom in co",
+        "hard disk in co",
+        "cd in co",
+        "dvd in co",
+        "floppy disk in co",
+        "usb in co",
+        "motherboard in co",
+        "processor in co",
+        "input device in co"
+      ]
+    },
+    {
+      "title": "Software Testing",
+      "topic": [
+        "Intro to st",
+        "testing",
+        "types of testing",
+        "unit testing in st",
+        "integration testing in st",
+        "system testing in st",
+        "acceptance testing in st",
+        "black box testing in st",
+        "white box testing in st",
+        "grey box testing in st",
+        "regression testing in st",
+        "retesting in st",
+        "sanity testing in st",
+        "load testing in st",
+        "stress testing in st",
+        "performance testing in st"
+      ]
+    },
+    {
+      "title": "Computer Architecture",
+      "topic": [
+        "Intro to ca",
+        "von neumann",
+        "harvard",
+        "risc in ca",
+        "cisc in ca",
+        "pipelining in ca",
+        "parallel processing in ca",
+        "multiprocessing in ca",
+        "multithreading in ca",
+        "cache memory in ca",
+        "virtual memory in ca",
+        "memory hierarchy in ca",
+        "instruction set in ca",
+        "microprocessor in ca",
+        "microcontroller in ca",
+        "fpga in ca"
+      ]
+    },
+    {
+      "title": "Digital Electronics",
+      "topic": [
+        "Intro to de",
+        "logic gates",
+        "boolean algebra",
+        "k-map in de",
+        "flip flop in de",
+        "counter in de",
+        "shift register in de",
+        "adder in de",
+        "subtractor in de",
+        "multiplexer in de",
+        "demultiplexer in de",
+        "encoder in de",
+        "decoder in de",
+        "combinational circuit in de",
+        "sequential circuit in de",
+        "half adder in de"
+      ]
+    },
+    {
+      "title": "Computer Vision",
+      "topic": [
+        "Intro to cv",
+        "image processing",
+        "object detection",
+        "object recognition in cv",
+        "image segmentation in cv",
+        "feature extraction in cv",
+        "image classification in cv",
+        "image retrieval in cv",
+        "image enhancement in cv",
+        "image restoration in cv",
+        "image compression in cv",
+        "image watermarking in cv",
+        "image steganography in cv",
+        "face recognition in cv",
+        "ocr in cv",
+        "handwriting recognition in cv"
+      ]
+    },
+    {
+      "title": "Natural Language Processing",
+      "topic": [
+        "Intro to nlp",
+        "tokenization",
+        "stemming",
+        "lemmatization in nlp",
+        "stop words in nlp",
+        "n-gram in nlp",
+        "bag of words in nlp",
+        "tf-idf in nlp",
+        "word2vec in nlp",
+        "glove in nlp",
+        "fasttext in nlp",
+        "bert in nlp",
+        "gpt in nlp",
+        "transformer in nlp",
+        "seq2seq in nlp",
+        "attention mechanism in nlp"
+      ]
+    },
+    {
+      "title": "Computer Security",
+      "topic": [
+        "Intro to cs",
+        "cryptography",
+        "network security",
+        "web security in cs",
+        "malware in cs",
+        "firewall in cs",
+        "ids in cs",
+        "ips in cs",
+        "vpn in cs",
+        "proxy in cs",
+        "dos in cs",
+        "ddos in cs",
+        "sql injection in cs",
+        "xss in cs",
+        "csrf in cs",
+        "clickjacking in cs"
+      ]
+    },
+    {
+      "title": "Computer Forensics",
+      "topic": [
+        "Intro to cf",
+        "computer crime",
+        "cyber crime",
+        "digital evidence in cf",
+        "chain of custody in cf",
+        "data recovery in cf",
+        "data acquisition in cf",
+        "data analysis in cf",
+        "data preservation in cf",
+        "data presentation in cf",
+        "data storage in cf",
+        "data destruction in cf",
+        "data retention in cf",
+        "data backup in cf",
+        "data restoration in cf",
+        "data investigation in cf"
+      ]
+    }
+  ]
+}

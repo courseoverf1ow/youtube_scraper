@@ -1,0 +1,20 @@
+{
+  "playlists": [
+    {
+      "title": "Data Structures",
+      "videos": ["9TlHvipP5yA", "9TlHvipP5yA", "9TlHvipP5yA"]
+    },
+    {
+      "title": "Algorithms",
+      "videos": ["9TlHvipP5yA", "9TlHvipP5yA", "9TlHvipP5yA"]
+    },
+    {
+      "title": "Machine Learning",
+      "videos": ["9TlHvipP5yA", "9TlHvipP5yA", "9TlHvipP5yA"]
+    },
+    {
+      "title": "Web Development",
+      "videos": ["9TlHvipP5yA", "9TlHvipP5yA", "9TlHvipP5yA"]
+    }
+  ]
+}
